@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>ftps://masofa.azurewebsites.net/|ftp://masofa.azurewebsites.net/|http://masofa.azurewebsites.net/Publish/|http://masofa.azurewebsites.net/|publish\</PublishUrlHistory>
+    <PublishUrlHistory>E:\business\publish\|E:\business\|publish\|ftps://masofa.azurewebsites.net/|ftp://masofa.azurewebsites.net/</PublishUrlHistory>
     <InstallUrlHistory>http://masofa.azurewebsites.net/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
